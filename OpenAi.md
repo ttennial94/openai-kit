@@ -72,7 +72,7 @@ let completion = try await openAIClient.completions.create(
 * [x] [Images](https://beta.openai.com/docs/api-reference/images)
 * [x] [Embeddings](https://beta.openai.com/docs/api-reference/embeddings)
 * [x] [Files](https://beta.openai.com/docs/api-reference/files)
-* [x] [Moderations](https://beta.openai.com/docs/api-reference/moderations)
+* [x] [Moderation](https://beta.openai.com/docs/api-reference/moderations)
 * [ ] [Fine-tunes](https://beta.openai.com/docs/api-reference/fine-tunes)
 * [x] [Speech to text](https://platform.openai.com/docs/guides/speech-to-text)
 
